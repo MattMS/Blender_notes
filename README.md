@@ -1,2 +1,3 @@
-# Blender_notes
-Reminders on how to do stuff in Blender.
+# Blender notes
+
+These are reminders for myself on how to do stuff in Blender.
