@@ -1,5 +1,9 @@
 # Camera
 
+`Alt+Home` to focus view on cursor.
+`Shift-S` to open move cursor menu.
+
+
 ## Focus on an object
 
 With the camera selected, choose "Constraints" from the "Properties"
