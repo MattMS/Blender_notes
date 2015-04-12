@@ -8,7 +8,7 @@
 
 In "3D View" Area, select the camera.
 
-In "Properties" Area, select "Constraints" context.
+In "Properties" Area, select "Constraints" Context.
 
 Click "Add Object Constraint", find the "Tracking" heading, then click
 "Track To".

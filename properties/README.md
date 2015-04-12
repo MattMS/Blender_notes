@@ -1,4 +1,4 @@
-# Properties area
+# Properties Area
 
 [Contexts](http://www.blender.org/manual/editors/properties/contexts.html)
 are the icon buttons that change the controls in the properties area.
