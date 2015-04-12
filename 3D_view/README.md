@@ -1,5 +1,7 @@
 # 3D View
 
+- [Camera](./camera/)
+
 - [Mesh tools](./mesh_tools/)
 
 
