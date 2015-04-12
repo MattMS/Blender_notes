@@ -2,7 +2,9 @@
 
 ## Deform vertices
 
-Select a model, then switch to "Edit Mode" with `Tab`.
+In "3D View" Area, select a model.
+
+Switch to "Edit Mode" with `Tab`.
 
 Press `t` to open the tools panel.
 
