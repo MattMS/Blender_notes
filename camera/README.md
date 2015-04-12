@@ -6,11 +6,12 @@
 
 ## Focus on an object
 
-With the camera selected, choose "Constraints" from the "Properties"
-panel.
+In "3D View" Area, select the camera.
 
-Click "Add Object Constraint", then "Track To" from under the
-"Tracking" heading.
+In "Properties" Area, select "Constraints" context.
+
+Click "Add Object Constraint", find the "Tracking" heading, then click
+"Track To".
 
 Set "Target" to the object to look at.
 
