@@ -11,4 +11,4 @@ The contents of an area is determined by the selected editor type.
 
 - [Outliner](./Outliner/)
 
-- [Properties](./properties/)
+- [Properties](./Properties/)
