@@ -18,6 +18,17 @@ The contents of an area is determined by the selected editor type.
 
 ## Keyboard controls
 
+`a` toggles selection of everything.
+
+`Shift + a` opens "Add" menu.
+
+`n` toggles Properties.
+
+`t` toggles Tool Shelf.
+
+
+### Animation
+
 `Alt + a` plays animation.
 
 `Alt + Shift + a` plays in reverse.
@@ -25,3 +36,12 @@ The contents of an area is determined by the selected editor type.
 `Shift + Left` jumps to first frame.
 
 `Shift + Right` jumps to last frame.
+
+
+### Transform selection
+
+`g` to move.
+
+`r` to rotate.
+
+`s` to scale.
