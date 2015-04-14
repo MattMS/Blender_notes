@@ -9,6 +9,8 @@ The contents of an area is determined by the selected editor type.
 
 - [3D View](./3D_view/)
 
+- [Node editor](./Node_editor/)
+
 - [Outliner](./Outliner/)
 
 - [Properties](./Properties/)
