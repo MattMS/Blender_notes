@@ -18,13 +18,24 @@ The contents of an area is determined by the selected editor type.
 
 ## Keyboard controls
 
+`Ctrl + q` to quit.
+
+Keyboard shortcuts depend on the Area your mouse is over!
+
 `a` toggles selection of everything.
 
 `Shift + a` opens "Add" menu.
 
+
+### Areas
+
 `n` toggles Properties.
 
 `t` toggles Tool Shelf.
+
+`Ctrl + Left`, `Ctrl + Right` changes Screen Layout.
+
+`Ctrl + Up`, `Ctrl + Down` toggles maximising Area.
 
 
 ### Animation
