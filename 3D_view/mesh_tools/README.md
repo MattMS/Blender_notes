@@ -7,9 +7,9 @@ Switch to "Edit Mode" with `Tab`.
 
 ## Deform vertices
 
-Press `t` to open the tools panel.
+1. Press `t` to open the tools panel.
 
-In "Tools" tab, find "Mesh Tools" group, find "Deform" heading, click
+2. In "Tools" tab, find "Mesh Tools" group, find "Deform" heading, click
 "Randomize".
 
-Use the "Amount" slider to adjust the possible intensity.
+3. Use the "Amount" slider to adjust the possible intensity.
