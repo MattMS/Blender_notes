@@ -7,9 +7,9 @@
 
 ## Keyboard controls
 
-`s` to open "Snap" menu, to move the selection or cursor.
+`Shift + s` to open "Snap" menu, to move the selection or Cursor.
 
 
 ## Links
 
-- [3D view manual page](http://www.blender.org/manual/editors/3dview/index.html)
+- [3D view manual page @ Blender manual](https://www.blender.org/manual/editors/3dview/index.html)
