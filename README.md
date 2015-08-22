@@ -2,6 +2,8 @@
 
 These are reminders for myself on how to do stuff in Blender.
 
+- [Blender manual](https://www.blender.org/manual/)
+
 
 ## Editor types
 
