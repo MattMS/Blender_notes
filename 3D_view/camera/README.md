@@ -1,20 +1,19 @@
 # Camera
 
-`Alt+Home` to focus view on cursor.
-`Shift-S` to open move cursor menu.
+`Alt + Home` to focus view on Cursor.
 
 
 ## Focus on an object
 
-In "3D View" Area, select the camera.
+1. In "3D View" Area, select the camera.
 
-In "Properties" Area, select "Constraints" Context.
+2. In "Properties" Area, select "Constraints" Context.
 
-Click "Add Object Constraint", find the "Tracking" heading, then click
+3. Click "Add Object Constraint", under the "Tracking" heading click
 "Track To".
 
-Set "Target" to the object to look at.
+4. Set "Target" to the object to look at.
 
-Set "To" to "-Z" and "Up" to "Y".
+5. Set "To" to "-Z" and "Up" to "Y".
 
 The camera should maintain focus on the object while moving either.
