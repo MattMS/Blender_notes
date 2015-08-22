@@ -1,6 +1,6 @@
 # Operator
 
-- [API (2.74)](http://www.blender.org/api/blender_python_api_2_74_release/bpy.types.Operator.html)
+- [Operator @ API 2.74](http://www.blender.org/api/blender_python_api_2_74_release/bpy.types.Operator.html)
 
 ```python
 import bpy
