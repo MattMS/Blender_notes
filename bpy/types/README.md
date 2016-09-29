@@ -9,6 +9,6 @@ Namespace for various classes used in Blender.
 
 - [Operator](./Operator/)
 
-- Panel
+- [Panel](./Panel/)
 
 - [UILayout](./UILayout/)
