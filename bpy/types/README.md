@@ -7,6 +7,8 @@ Namespace for various classes used in Blender.
 
 ## Common classes
 
+- [BlendData](./BlendData/)
+
 - [Operator](./Operator/)
 
 - [Panel](./Panel/)
