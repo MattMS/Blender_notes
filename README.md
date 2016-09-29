@@ -53,7 +53,7 @@ Keyboard shortcuts depend on the Area your mouse is over!
 
 ### Transform selection
 
-`g` to move.
+`g` (grab) to move.
 
 `r` to rotate.
 
