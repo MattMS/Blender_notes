@@ -1,5 +1,10 @@
 # bpy.data
 
+Access to Blender's internal data, as [bpy.types.BlendData](../types/BlendData/) structure.
+
+- [Data Access (bpy.data) @ Current API](https://www.blender.org/api/blender_python_api_current/bpy.data.html)
+
+
 ## Create object
 
 Objects cannot be created directly from classes.
