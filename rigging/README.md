@@ -10,12 +10,17 @@ Later, if you update the Rest position then Poses will update too.
 
 "Head" or "Root"
 : Ball at the wide end of the Bone.
+: Root is the preferred name.
 
 "Tail" or "Tip"
 : Ball at the narrow end of the Bone.
+: Tip is the preferred name.
 
 "Body"
 : Main part of the Bone.
+
+- https://www.blender.org/manual/en/rigging/armatures/bones/introduction.html
+- https://wiki.blender.org/index.php/Doc:2.4/Manual/Rigging/Armatures/Bones
 
 
 ## Adding Bones
