@@ -2,7 +2,7 @@
 
 Usually used to assign [properties](/bpy/props) from context when Operator is called.
 
-- https://www.blender.org/api/blender_python_api_current/bpy.types.Operator.html#invoke-function
+- [invoke @ API](https://www.blender.org/api/blender_python_api_current/bpy.types.Operator.html#invoke-function)
 
 ```
 class MyOperator(bpy.types.Operator):
