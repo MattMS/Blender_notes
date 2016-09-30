@@ -4,7 +4,7 @@ Register a subclass of a Blender type.
 
 If the class has a `register` class method, it will be called before registration.
 
-- [bpy.utils.register_class @ Current API](https://www.blender.org/api/blender_python_api_current/bpy.utils.html?highlight=register#bpy.utils.register_class)
+- [bpy.utils.register_class @ Current API](https://www.blender.org/api/blender_python_api_current/bpy.utils.html#bpy.utils.register_class)
 
 	register_class(cls)
 
