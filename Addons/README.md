@@ -3,8 +3,15 @@
 `bl_info` is a dictionary containing addon meta-data such as the title, version and author to be displayed in the user preferences addon list.
 
 	bl_info = {
+		"author": "Matt McKellar-Spence",
+		"blender": (2, 75, 0),
 		"category": "Object",
+		"description": "Adds a new Mesh Object",
+		"location": "View3D > Add > Mesh > New Object",
 		"name": "My Test Addon"
+		"warning": "",
+		"wiki_url": "",
+		"version": (1, 0),
 	}
 
 `register` is a function which only runs when enabling the addon.
